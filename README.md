@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning Frontend Web Development 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.maitridshah}.${your.repo.id})
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maitri Shah's&show icons=true&hide border=true&&count private=true&include all commits=true" />
 <!--
 **maitridshah/maitridshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
