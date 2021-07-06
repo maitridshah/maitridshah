@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maitri Shah</h1>
 <h3 align="center">A passionate Frontend developer</h3>
 <br>
-<img align="left" alt="Coding" width="600" src="https://user-images.githubusercontent.com/41771594/124543035-24b54780-de42-11eb-94f4-7ff235c30b2a.gif">
+<img align="center" alt="Coding" width="800" src="https://user-images.githubusercontent.com/41771594/124593840-bcd02280-de7c-11eb-8778-a57309215e81.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maitridshah&label=Profile%20views&color=0e75b6&style=flat" alt="maitri" /> </p>
@@ -26,7 +26,8 @@
 
 <br />
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -44,8 +45,8 @@
 ---
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maitridshah&show_icons=true&locale=en&layout=compact" alt="maitri" /></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=maitridshah&show_icons=true&locale=en" alt="maitri" /></p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=maitridshah&show_icons=true&locale=en" alt="maitri" /></p>
 
 [instagram]: https://instagram.com/maitridshah02
 [linkedin]: https://linkedin.com/in/shah-maitri-o55
