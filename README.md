@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maitri Shah</h1>
 <h3 align="center">A passionate Frontend developer</h3>
 <br>
-<img align="center" alt="Coding" width="800" src="https://user-images.githubusercontent.com/41771594/124543035-24b54780-de42-11eb-94f4-7ff235c30b2a.gif
-">
+<img align="left" alt="Coding" width="600" src="https://user-images.githubusercontent.com/41771594/124543035-24b54780-de42-11eb-94f4-7ff235c30b2a.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maitridshah&label=Profile%20views&color=0e75b6&style=flat" alt="maitri" /> </p>
 
