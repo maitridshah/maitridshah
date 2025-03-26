@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Maitri Shah</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 <br>
 <img align="center" alt="Coding" width="800" src="https://user-images.githubusercontent.com/41771594/124593840-bcd02280-de7c-11eb-8778-a57309215e81.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maitridshah&label=Profile%20views&color=0e75b6&style=flat" alt="maitri" /> </p>
 
-- 🔭 I’m currently working on **React.**
+- 🔭 I’m currently working on **Data Analysis**
 
-- 🌱 I’m currently learning **Frontend Development.**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maitridshah](https://github.com/maitridshah)
 
 - 📫 How to reach me **maitridshah20@gmail.com**
 
 
-### Spotify Playing 🎧
 
-[<img src="https://gifer.com/en/gifs/cd-player" alt="Maitri Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
